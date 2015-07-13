@@ -235,10 +235,6 @@
       "values": [],
       "description": "Specifies all borders on an HTMLElement."
     },
-    "border-radius": {
-      "values": [],
-      "description": "Allows Web authors to define how rounded border corners are."
-    },
     "border-top": {
       "values": [],
       "description": "A shorthand that sets the values of border-top-color, border-top-style…border-top-style, and border-top-width."
@@ -254,6 +250,10 @@
     "border-right": {
       "values": [],
       "description": "A shorthand that sets the values of border-right-color, border-right-style…border-right-style, and border-right-width."
+    },
+    "border-radius": {
+      "values": [],
+      "description": "Allows Web authors to define how rounded border corners are."
     },
     "border-color": {
       "values": [
